@@ -7,4 +7,6 @@
 - this line was added on the local clone
 - nothing interesting
 - just looking..
+- this one is second commit
+- it contains two lines
 
